@@ -1,0 +1,1069 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='E:\MSRIT clg\5th sem\java\eclipse\.eclipseextension' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='3'>
+    <property name='p2.timestamp' value='1502197376823'/>
+    <property name='org.eclipse.update.site.policy' value='USER-EXCLUDE'/>
+    <property name='org.eclipse.update.site.list' value=''/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='105'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.launch.remote' version='2.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='88476'/>
+        <property name='download.size' value='88476'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.launch.remote_2.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.launch.remote_2.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.make.ui' version='7.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='486999'/>
+        <property name='download.size' value='486999'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.make.ui_7.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.make.ui_7.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.dataviewers.charts' version='6.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='40907'/>
+        <property name='download.size' value='40907'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.dataviewers.charts_6.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.dataviewers.charts_6.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tmf.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='434743'/>
+        <property name='download.size' value='434743'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tmf.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tmf.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.memcheck' version='1.1.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='31301'/>
+        <property name='download.size' value='31301'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.memcheck_1.1.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.memcheck_1.1.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.remote.core' version='1.0.0.201406101955'>
+      <properties size='2'>
+        <property name='artifact.size' value='105878'/>
+        <property name='download.size' value='105878'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.remote.core_1.0.0.201406101955.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.remote.core_1.0.0.201406101955.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.cyberneko.html' version='1.9.14.v201105210654'>
+      <properties size='2'>
+        <property name='artifact.size' value='134222'/>
+        <property name='download.size' value='134222'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.cyberneko.html_1.9.14.v201105210654.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.cyberneko.html_1.9.14.v201105210654.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.statesystem.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='86533'/>
+        <property name='download.size' value='86533'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.statesystem.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.statesystem.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.mylyn.ui' version='3.12.0.v20140328-2338'>
+      <properties size='2'>
+        <property name='artifact.size' value='72559'/>
+        <property name='download.size' value='72559'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.mylyn.ui_3.12.0.v20140328-2338.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.mylyn.ui_3.12.0.v20140328-2338.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tmf.ctf.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='49735'/>
+        <property name='download.size' value='49735'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tmf.ctf.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tmf.ctf.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.changelog.cparser' version='2.7.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='13896'/>
+        <property name='download.size' value='13896'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.changelog.cparser_2.7.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.changelog.cparser_2.7.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.rpm.rpmlint' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='59094'/>
+        <property name='download.size' value='59094'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.rpm.rpmlint_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.rpm.rpmlint_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.rpm.ui' version='1.1.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='55346'/>
+        <property name='download.size' value='55346'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.rpm.ui_1.1.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.rpm.ui_1.1.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.msw.build' version='1.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='18604'/>
+        <property name='download.size' value='18604'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.msw.build_1.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.msw.build_1.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.autotools.ui' version='1.0.1.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='811612'/>
+        <property name='download.size' value='811612'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.autotools.ui_1.0.1.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.autotools.ui_1.0.1.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng2.kernel.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='39791'/>
+        <property name='download.size' value='39791'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng2.kernel.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng2.kernel.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.profiling.ui' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='17678'/>
+        <property name='download.size' value='17678'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.profiling.ui_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.profiling.ui_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.dataviewers.piechart' version='2.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='17473'/>
+        <property name='download.size' value='17473'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.dataviewers.piechart_2.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.dataviewers.piechart_2.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.cdt.libhover.glibc' version='1.2.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='493795'/>
+        <property name='download.size' value='493795'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.cdt.libhover.glibc_1.2.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.cdt.libhover.glibc_1.2.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.gdb.ui' version='7.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='10630'/>
+        <property name='download.size' value='10630'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.gdb.ui_7.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.gdb.ui_7.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.win32' version='5.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='12260'/>
+        <property name='download.size' value='12260'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.core.win32_5.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.core.win32_5.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.ui' version='2.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='45098'/>
+        <property name='download.size' value='45098'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.ui_2.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.ui_2.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.codan.ui' version='3.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='123103'/>
+        <property name='download.size' value='123103'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.codan.ui_3.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.codan.ui_3.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.gdb' version='7.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='16685'/>
+        <property name='download.size' value='16685'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.gdb_7.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.gdb_7.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.massif' version='1.1.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='89445'/>
+        <property name='download.size' value='89445'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.massif_1.1.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.massif_1.1.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.managedbuilder.gnu.ui' version='8.2.1.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='49719'/>
+        <property name='download.size' value='49719'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.managedbuilder.gnu.ui_8.2.1.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.managedbuilder.gnu.ui_8.2.1.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tmf.analysis.xml.ui' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='52527'/>
+        <property name='download.size' value='52527'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tmf.analysis.xml.ui_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tmf.analysis.xml.ui_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.binutils' version='5.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='46675'/>
+        <property name='download.size' value='46675'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.binutils_5.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.binutils_5.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gcov.launch' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='18821'/>
+        <property name='download.size' value='18821'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gcov.launch_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gcov.launch_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.ui.memory.traditional' version='1.2.1.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='145236'/>
+        <property name='download.size' value='145236'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.ui.memory.traditional_1.2.1.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.ui.memory.traditional_1.2.1.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gdbtrace.ui' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='28742'/>
+        <property name='download.size' value='28742'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gdbtrace.ui_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gdbtrace.ui_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.win32.x86_64' version='5.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='0'/>
+        <property name='download.size' value='0'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.core.win32.x86_64_5.3.0.201406111759/'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.core.win32.x86_64_5.3.0.201406111759'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gprof.docs' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='441021'/>
+        <property name='download.size' value='441021'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gprof.docs_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gprof.docs_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.core' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='23216'/>
+        <property name='download.size' value='23216'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.core_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.core_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.helgrind' version='1.1.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='23185'/>
+        <property name='download.size' value='23185'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.helgrind_1.1.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.helgrind_1.1.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.dsf.ui' version='2.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='1365608'/>
+        <property name='download.size' value='1365608'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.dsf.ui_2.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.dsf.ui_2.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng2.control.ui' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='341526'/>
+        <property name='download.size' value='341526'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng2.control.ui_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng2.control.ui_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.autotools.core' version='1.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='120786'/>
+        <property name='download.size' value='120786'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.autotools.core_1.3.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.autotools.core_1.3.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.cdt.libhover' version='1.2.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='50260'/>
+        <property name='download.size' value='50260'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.cdt.libhover_1.2.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.cdt.libhover_1.2.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.codan.checkers' version='3.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='87056'/>
+        <property name='download.size' value='87056'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.codan.checkers_3.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.codan.checkers_3.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gcov.docs' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='310281'/>
+        <property name='download.size' value='310281'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gcov.docs_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gcov.docs_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng2.kernel.ui' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='76263'/>
+        <property name='download.size' value='76263'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng2.kernel.ui_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng2.kernel.ui_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tmf.analysis.xml.core' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='82421'/>
+        <property name='download.size' value='82421'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tmf.analysis.xml.core_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tmf.analysis.xml.core_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.codan.checkers.ui' version='3.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='32329'/>
+        <property name='download.size' value='32329'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.codan.checkers.ui_3.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.codan.checkers.ui_3.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng2.ust.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='25699'/>
+        <property name='download.size' value='25699'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng2.ust.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng2.ust.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.rpm.core' version='2.1.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='51183'/>
+        <property name='download.size' value='51183'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.rpm.core_2.1.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.rpm.core_2.1.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.ui.memory.search' version='1.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='62056'/>
+        <property name='download.size' value='62056'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.ui.memory.search_1.3.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.ui.memory.search_1.3.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.mi.ui' version='6.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='154966'/>
+        <property name='download.size' value='154966'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.mi.ui_6.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.mi.ui_6.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.native' version='5.7.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='33391'/>
+        <property name='download.size' value='33391'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.core.native_5.7.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.core.native_5.7.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.ui.editor' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='49615'/>
+        <property name='download.size' value='49615'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.ui.editor_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.ui.editor_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gdbtrace.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='46694'/>
+        <property name='download.size' value='46694'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gdbtrace.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gdbtrace.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.launch' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='77900'/>
+        <property name='download.size' value='77900'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.launch_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.launch_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.application.doc' version='1.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='11387629'/>
+        <property name='download.size' value='11387629'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.application.doc_1.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.application.doc_1.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.rpmstubby' version='1.2.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='68568'/>
+        <property name='download.size' value='68568'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.rpmstubby_1.2.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.rpmstubby_1.2.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.ui' version='7.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='1185700'/>
+        <property name='download.size' value='1185700'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.ui_7.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.ui_7.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.ctf.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='141230'/>
+        <property name='download.size' value='141230'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.ctf.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.ctf.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.ctf.parser' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='126002'/>
+        <property name='download.size' value='126002'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.ctf.parser_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.ctf.parser_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.dsf.gdb.ui' version='2.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='697668'/>
+        <property name='download.size' value='697668'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.dsf.gdb.ui_2.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.dsf.gdb.ui_2.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.antlr.runtime' version='3.2.0.v201101311130'>
+      <properties size='2'>
+        <property name='artifact.size' value='214589'/>
+        <property name='download.size' value='214589'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.antlr.runtime_3.2.0.v201101311130.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.antlr.runtime_3.2.0.v201101311130.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.core' version='7.5.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='558962'/>
+        <property name='download.size' value='558962'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.core_7.5.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.core_7.5.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.cdt.autotools.core' version='2.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='10538'/>
+        <property name='download.size' value='10538'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.cdt.autotools.core_2.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.cdt.autotools.core_2.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gdbtrace.help' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='188123'/>
+        <property name='download.size' value='188123'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gdbtrace.help_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gdbtrace.help_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.dsf.gdb' version='4.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='1617337'/>
+        <property name='download.size' value='1617337'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.dsf.gdb_4.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.dsf.gdb_4.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tools.launch.ui' version='2.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='19557'/>
+        <property name='download.size' value='19557'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tools.launch.ui_2.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tools.launch.ui_2.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.launch' version='7.1.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='233129'/>
+        <property name='download.size' value='233129'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.launch_7.1.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.launch_7.1.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.swtchart' version='0.7.0.v201201201914'>
+      <properties size='2'>
+        <property name='artifact.size' value='117264'/>
+        <property name='download.size' value='117264'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.swtchart_0.7.0.v201201201914.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.swtchart_0.7.0.v201201201914.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core' version='5.7.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='5255270'/>
+        <property name='download.size' value='5255270'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.core_5.7.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.core_5.7.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng.help' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='5337492'/>
+        <property name='download.size' value='5337492'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng.help_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng.help_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.launch.remote.source' version='2.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='43496'/>
+        <property name='download.size' value='43496'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.launch.remote.source_2.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.launch.remote.source_2.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gprof.launch' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='23684'/>
+        <property name='download.size' value='23684'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gprof.launch_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gprof.launch_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.rpm.ui.editor' version='2.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='276360'/>
+        <property name='download.size' value='276360'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.rpm.ui.editor_2.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.rpm.ui.editor_2.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.codan.core' version='3.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='140857'/>
+        <property name='download.size' value='140857'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.codan.core_3.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.codan.core_3.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.changelog.doc' version='2.7.1.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='736290'/>
+        <property name='download.size' value='736290'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.changelog.doc_2.7.1.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.changelog.doc_2.7.1.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.profiling.docs' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='443741'/>
+        <property name='download.size' value='443741'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.profiling.docs_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.profiling.docs_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.remote.core' version='1.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='19233'/>
+        <property name='download.size' value='19233'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.remote.core_1.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.remote.core_1.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.codan.core.cxx' version='3.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='65667'/>
+        <property name='download.size' value='65667'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.codan.core.cxx_3.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.codan.core.cxx_3.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tmf.ui' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='1762655'/>
+        <property name='download.size' value='1762655'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tmf.ui_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tmf.ui_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.autotools.docs' version='2.0.2.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='1929137'/>
+        <property name='download.size' value='1929137'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.autotools.docs_2.0.2.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.autotools.docs_2.0.2.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.doc' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='1277308'/>
+        <property name='download.size' value='1277308'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.doc_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.doc_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.ui.memory.memorybrowser' version='1.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='64280'/>
+        <property name='download.size' value='64280'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.ui.memory.memorybrowser_1.3.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.ui.memory.memorybrowser_1.3.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.codan.ui.cxx' version='3.2.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='26204'/>
+        <property name='download.size' value='26204'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.codan.ui.cxx_3.2.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.codan.ui.cxx_3.2.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.dsf' version='2.5.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='326261'/>
+        <property name='download.size' value='326261'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.dsf_2.5.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.dsf_2.5.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.changelog.core' version='2.8.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='113557'/>
+        <property name='download.size' value='113557'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.changelog.core_2.8.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.changelog.core_2.8.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.ui.memory.floatingpoint' version='1.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='142091'/>
+        <property name='download.size' value='142091'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.ui.memory.floatingpoint_1.0.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.ui.memory.floatingpoint_1.0.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng2.ust.ui' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='21314'/>
+        <property name='download.size' value='21314'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng2.ust.ui_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng2.ust.ui_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.cdt.libhover.devhelp' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='53400'/>
+        <property name='download.size' value='53400'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.cdt.libhover.devhelp_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.cdt.libhover.devhelp_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.rpm.ui.editor.doc' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='1917743'/>
+        <property name='download.size' value='1917743'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.rpm.ui.editor.doc_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.rpm.ui.editor.doc_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.managedbuilder.ui' version='8.2.1.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='490589'/>
+        <property name='download.size' value='490589'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.managedbuilder.ui_8.2.1.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.managedbuilder.ui_8.2.1.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gcov.core' version='5.1.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='120477'/>
+        <property name='download.size' value='120477'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gcov.core_5.1.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gcov.core_5.1.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.valgrind.cachegrind' version='1.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='55154'/>
+        <property name='download.size' value='55154'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.valgrind.cachegrind_1.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.valgrind.cachegrind_1.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.lttng2.control.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='104602'/>
+        <property name='download.size' value='104602'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.lttng2.control.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.lttng2.control.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.cdt.libhover.library.docs' version='1.0.2.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='19989'/>
+        <property name='download.size' value='19989'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.cdt.libhover.library.docs_1.0.2.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.cdt.libhover.library.docs_1.0.2.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.epp.package.cpp' version='4.4.0.20140612-0500'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.epp.package.cpp_4.4.0.20140612-0500/'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.epp.package.cpp_4.4.0.20140612-0500'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.gprof' version='5.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='91913'/>
+        <property name='download.size' value='91913'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.gprof_5.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.gprof_5.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.ui.memory.transport' version='2.1.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='118197'/>
+        <property name='download.size' value='118197'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.ui.memory.transport_2.1.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.ui.memory.transport_2.1.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tmf.help' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='3002276'/>
+        <property name='download.size' value='3002276'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tmf.help_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tmf.help_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.dataviewers' version='6.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='106010'/>
+        <property name='download.size' value='106010'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.dataviewers_6.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.dataviewers_6.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.doc.user' version='5.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='18803904'/>
+        <property name='download.size' value='18803904'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.doc.user_5.3.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.doc.user_5.3.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt' version='8.4.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='79917'/>
+        <property name='download.size' value='79917'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt_8.4.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt_8.4.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.mi.core' version='7.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='563164'/>
+        <property name='download.size' value='563164'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.mi.core_7.3.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.mi.core_7.3.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.profiling.launch' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='141844'/>
+        <property name='download.size' value='141844'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.profiling.launch_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.profiling.launch_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.build.crossgcc' version='1.1.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='30763'/>
+        <property name='download.size' value='30763'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.build.crossgcc_1.1.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.build.crossgcc_1.1.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.linuxtools.tools.launch.core' version='3.0.0.201406100404'>
+      <properties size='2'>
+        <property name='artifact.size' value='22400'/>
+        <property name='download.size' value='22400'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.linuxtools.tools.launch.core_3.0.0.201406100404.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.linuxtools.tools.launch.core_3.0.0.201406100404.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.managedbuilder.core' version='8.3.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='1323665'/>
+        <property name='download.size' value='1323665'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.managedbuilder.core_8.3.0.201406111759.jar'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.managedbuilder.core_8.3.0.201406111759.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.debug.application' version='1.0.0.201406111759'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4096'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/E:/MSRIT%20clg/5th%20sem/java/eclipse/plugins/org.eclipse.cdt.debug.application_1.0.0.201406111759/'/>
+        <property name='file.name' value='E:\MSRIT clg\5th sem\java\eclipse\plugins\org.eclipse.cdt.debug.application_1.0.0.201406111759'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
